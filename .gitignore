@@ -1,12 +1,1 @@
 
-*.o
-*.exe
-*.out
-*.c
-
-*.swp
-*.swo
-
-
-build/
-bin/
